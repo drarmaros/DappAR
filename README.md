@@ -27,7 +27,7 @@ Connect Sensors to Unity3D with the DappAR opensource framework.
 3. Find DappAR on Github (https://lnkd.in/gBJ4-dd)
 4. Click "Fork"
 5. Click "Star"
-6. Join our Discord https://discord.com/invite/7h273C8N
+6. Join our Discord (Will return shortly)
 7. Follow us on Twitter https://twitter.com/dapp_AR and @mention us for a reshare!
 
 
