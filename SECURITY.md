@@ -14,5 +14,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-If you detect a vulnerability please send us an email at suppoart@wolfberryllc.com
+If you detect a vulnerability please send us an email at support@wolfberryllc.com
 
