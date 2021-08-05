@@ -8,10 +8,11 @@ currently being supported with security updates.
 | Version | Supported          | Title      |
 | ------- | ------------------ |------------|
 | 1.0.0   | :white_check_mark: | Canis      |
-| 0.0.0   | :x:                | Goseberry  |
-| 2.0.0   | :white_check_mark: | Huckleberry|
+| 2.0.0   | :x:                | Goseberry  |
+| 3.0.0   | :x:                | Huckleberry|
 | < 4.0   | :x:                | Blackberry |
 
 ## Reporting a Vulnerability
 
 If you detect a vulnerability please send us an email at suppoart@wolfberryllc.com
+
