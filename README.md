@@ -1,6 +1,6 @@
 
 
-<h1> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger </i></h3>
+<h1> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger</h1>
 
 
 ![wire-rack-1311162_1280](https://user-images.githubusercontent.com/21232416/128045442-877ba8f7-c6fd-4186-a07d-124f3e744706.jpg)
