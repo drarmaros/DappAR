@@ -8,7 +8,7 @@ currently being supported with security updates.
 | Version | Supported          | Title      |
 | ------- | ------------------ |------------|
 | 1.0.0   | :white_check_mark: | Canis      |
-| 2.0.0   | :x:                | Goseberry  |
+| 2.0.0   | :x:                | Ghostberry |
 | 3.0.0   | :x:                | Huckleberry|
 | < 4.0   | :x:                | Blackberry |
 
