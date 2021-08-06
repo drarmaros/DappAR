@@ -5,7 +5,7 @@
 
 ![wire-rack-1311162_1280](https://user-images.githubusercontent.com/21232416/128045442-877ba8f7-c6fd-4186-a07d-124f3e744706.jpg)
 
-<h2> Blockchain-Enabled Smart Sensor Framework using Augmented Reality. </h1><h3><i>Extended Realities for IoT. View Sensor data in 3D </h2>
+<h2> Blockchain-Enabled Smart Sensor Framework using Augmented Reality. </h1><h3><i>Extended Realities for IoT. View Sensor data in 3D </h2></i>
 This project was built to help developers create extended realities that communicate with Arduino and require the security of blockchain decentralization.
 <br>
 <br>
