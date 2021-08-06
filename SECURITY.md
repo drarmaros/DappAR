@@ -9,8 +9,8 @@ currently being supported with security updates.
 | ------- | ------------------ |------------|
 | 1.0.0   | :white_check_mark: | Canis      |
 | 2.0.0   | :x:                | Ghostberry |
-| 3.0.0   | :x:                | Huckleberry|
-| < 4.0   | :x:                | Blackberry |
+| 3.0.0   | :x:                | Boysenberry|
+| < 4.0   | :x:                | Goji Berry |
 
 ## Reporting a Vulnerability
 
