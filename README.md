@@ -1,3 +1,3 @@
 # DappAR
 Blockchain-Enabled IoT Sensor Framework that uses Augmented Reality and Artificial Intelligence
-This Unity built read values of sensors from firebase Realtime Database and displaying values in unity Application
+This Unity version reads values of sensors from firebase Realtime Database and displays values in a Unity Application
