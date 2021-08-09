@@ -1,4 +1,4 @@
-<h1> Dapp AR Episode List </h1>
+<h1> DappAR Episode List </h1>
 
   |Episode|Title|Date|
   |---------|-----------|--------|
