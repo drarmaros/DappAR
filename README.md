@@ -48,7 +48,7 @@ Phase 1.0 - Complete and available now. *Canis
 
 <h2><i> Quick Set Up </i></h2> 
 
-Demo.py file contains sensors values reading code through Arduino Sensor Kit base ports
+Demo.py file contains sensors values reading code through Arduino Sensor Kit Base ports
 A0,A1,A2,A3 & Also contains an Api call which is inserting data into realtime database on google firebase.
 
 By default in Firebase connectivity we've passed our own credentials.
