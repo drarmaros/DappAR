@@ -46,6 +46,17 @@ Phase 1.0 - Complete and available now. *Canis
 
 4. Displayed Data on a Static IP Address from Firebase. 
 
+<h2><i> Quick Set Up </i></h2> 
+
+Demo.py file contains sensors values reading code through Arduino Sensor Kit base ports
+A0,A1,A2,A3 & Also contains an Api call which is inserting data into realtime database on google firebase.
+
+By default in Firebase connectivity we've passed our own credentials, you're going to want to swap that out for your own. 
+
+You can setup your own firebase on google cloud and get its credentials & Replace it with our firebase credentials.
+
+You may ask us for help at any point. Get some!
+
 
 ![Route1](https://user-images.githubusercontent.com/21232416/128073048-85c368e7-3e97-43a5-a69c-4d06db8c4647.png)
 
