@@ -19,7 +19,7 @@ You can setup your own firebase on google cloud and get its credentials & Replac
  
  
  
-<h1> Instructions </h1>
+<h3> Instructions </h3>
 1.<br>
 2.<br>
 3.<br>
