@@ -51,7 +51,7 @@ Phase 1.0 - Complete and available now. *Canis
 Demo.py file contains sensors values reading code through Arduino Sensor Kit base ports
 A0,A1,A2,A3 & Also contains an Api call which is inserting data into realtime database on google firebase.
 
-By default in Firebase connectivity we've passed our own credentials, you're going to want to swap that out for your own. 
+By default in Firebase connectivity we've passed our own credentials.
 
 You can setup your own firebase on google cloud and get its credentials & Replace it with our firebase credentials.
 
