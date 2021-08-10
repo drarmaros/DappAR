@@ -8,13 +8,13 @@
    <h2> Quick Set Up</h2><b>
  
  
-<h3>Demo.py file contains sensors values reading code through Arduino Sensor Kit base ports A0,A1,A2,A3 & Also contains an Api call which is inserting data into realtime database on google firebase.
+<h4>Demo.py file contains sensors values reading code through Arduino Sensor Kit base ports A0,A1,A2,A3 & Also contains an Api call which is inserting data into realtime database on google firebase.
 
 By default in Firebase connectivity we've passed our own credentials.
 
 You can setup your own firebase on google cloud and get its credentials & Replace it with our firebase credentials.
 
- You may ask us for help at any point. Get some!</h3>
+ You may ask us for help at any point. Get some!</h4>
  
  
  
