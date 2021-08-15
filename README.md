@@ -3,7 +3,8 @@
 <h1> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger </h1>
 <h3> Keep it Simple </h3>
 
-![wire-rack-1311162_1280](https://user-images.githubusercontent.com/21232416/128045442-877ba8f7-c6fd-4186-a07d-124f3e744706.jpg)
+![Asset 2](https://user-images.githubusercontent.com/21232416/129479886-db33ecc9-7f24-49a6-81f1-762b540f3207.png)
+
 
 <h2> Blockchain-Enabled Smart Sensor Framework using Augmented Reality. </h1><h3><i>Extended Realities for IoT. View Sensor data in 3D </h2></i>
 This project was built to help developers create extended realities that communicate with Arduino and require the security of blockchain decentralization.
