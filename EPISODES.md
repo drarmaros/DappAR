@@ -6,3 +6,4 @@
   |Episode|Title|Date|
   |---------|-----------|--------|
   |Episode 1|Pre-Release|8-3-2021|
+  |Episode 2|Phase 1 Released|8-12-2021|
