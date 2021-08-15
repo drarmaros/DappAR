@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
+![Asset 2](https://user-images.githubusercontent.com/21232416/129479929-3acceb06-0cfb-413a-8a86-37fc9fb0a0d5.png)
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
