@@ -6,10 +6,10 @@ Welcome Teachers!
 
 <h1> Item List </h1>
 <h2> Hardware </h2>
-1. Arduino Uno https://store.arduino.cc/usa/arduino-uno-rev3
-2. Arduino Sensor Kit Base https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html?gclid=EAIaIQobChMIjdLOsdm28gIVQxB9Ch2shQ5rEAQYAiABEgL0i_D_BwE
-3. Crowtail Capacative Soil Moisture Sensors https://www.elecrow.com/crowtail-capacitive-soil-moisture-sensor.html
-4. Raspberry Pi 4B 8GB https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
+1. Arduino Uno https://store.arduino.cc/usa/arduino-uno-rev3<br>
+2. Arduino Sensor Kit Base https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html?gclid=EAIaIQobChMIjdLOsdm28gIVQxB9Ch2shQ5rEAQYAiABEgL0i_D_BwE<br>
+3. Crowtail Capacative Soil Moisture Sensors https://www.elecrow.com/crowtail-capacitive-soil-moisture-sensor.html<br>
+4. Raspberry Pi 4B 8GB https://www.raspberrypi.org/products/raspberry-pi-4-model-b/<br>
 5. 4 pin buckled cables https://www.seeedstudio.com/Grove-Universal-4-Pin-Buckled-50cm-Cable-5-PCs-Pack.html?gclid=EAIaIQobChMIoIn739i28gIVggh9Ch3QhQ8fEAQYAiABEgId4_D_BwE<br>
 5. Monitor (any compatible using HDMI Mini)<br>
 6. Keyboard (Wireless or USB)<br>
