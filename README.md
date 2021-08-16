@@ -54,7 +54,7 @@ A0,A1,A2,A3 & Also contains an Api call which is inserting data into realtime da
 
 By default in Firebase connectivity we've passed our own credentials.
 
-You can setup your own firebase on google cloud and get its credentials & Replace it with our firebase credentials.
+You can setup your own firebase on google cloud and get its credentials & replace it with our firebase credentials.
 
 You may ask us for help at any point.
 
