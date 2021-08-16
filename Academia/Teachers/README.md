@@ -8,8 +8,11 @@ Welcome Teachers!
 <h2> Hardware </h2>
 1. 4 Pin Cable https://store.arduino.cc/usa/grove-universal-4-pin-buckled-30cm-cable-5-pcs <br>
 2. Arduino Sensor Kit Base https://store.arduino.cc/usa/sensor-kit-base <br>
-3. Crowtail Soil Sensor https://www.elecrow.com/crowtail-capacitive-soil-moisture-sensor.html
-4. Raspberry Pi 4B https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
+3. Crowtail Soil Sensor https://www.elecrow.com/crowtail-capacitive-soil-moisture-sensor.html <br>
+4. Raspberry Pi 4B https://www.raspberrypi.org/products/raspberry-pi-4-model-b/ <br>
+5. Monitor (any compatible using HDMI Mini)
+6. Keyboard (Wireless or USB)
+7. Mouse (Wireless or USB)
 
 
 <h2> Software </h2>
