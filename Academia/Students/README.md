@@ -14,7 +14,7 @@ By default in Firebase connectivity we've passed our own credentials.
 
 You can setup your own firebase on google cloud and get its credentials & Replace it with our firebase credentials.
 
- You may ask us for help at any point. Get some!</h4>
+ You may ask us for help at any point.</h4>
  
  
  
