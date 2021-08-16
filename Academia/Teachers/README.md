@@ -1,6 +1,8 @@
 ![Asset 2](https://user-images.githubusercontent.com/21232416/129589229-dea11867-2e5c-4b70-9a3e-43ca646a7b91.png)
 
 <h1> Instructions </h1>
+Welcome Teachers!
+
 
 <h1> Item List </h1>
 <h2> Hardware </h2>
@@ -12,4 +14,7 @@
 
 <h2> Software </h2>
 1. Unity3d https://unity3d.com/get-unity/download
+
+<h2> Cloud Service Account </h2>
+1. Firebase https://firebase.google.com/
 
