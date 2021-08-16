@@ -1,5 +1,7 @@
-
 <h1> Checklist <h1>
+ 
+ ![Asset 2](https://user-images.githubusercontent.com/21232416/129641818-4949a117-a1ff-407a-a5c9-3178493ba986.png)
+ 
  <h2> Hardware Checklist</h2>
    1. Arduino Uno https://store.arduino.cc/usa/arduino-uno-rev3<br>
  2. Arduino Sensor Kit Base https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html?gclid=EAIaIQobChMIjdLOsdm28gIVQxB9Ch2shQ5rEAQYAiABEgL0i_D_BwE<br>
