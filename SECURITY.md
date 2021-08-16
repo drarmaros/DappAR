@@ -1,5 +1,7 @@
 # Security Policy
 
+![Asset 2](https://user-images.githubusercontent.com/21232416/129588999-d72d2c88-e18c-4c18-be00-861e061106fd.png)
+
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
