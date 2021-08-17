@@ -6,11 +6,11 @@
 
 
 | Version | Supported          | Title      | 
-| ------- | ------------------ |------------|
-| 1.0.0   | :white_check_mark: | Canis      | Published and Open Source
-| 2.0.0   | :x:                | Boysenberry| In development and Open Source
-| 3.0.0   | :x:                | Ghostberry | In planning and this is a Private Repo
-| < 4.0.0 | :x:                | Huckleberry| In planning and Open Source
+| ------- | ------------------ |------------|----------------------------------------|
+| 1.0.0   | :white_check_mark: | Canis      | Published and Open Source              |
+| 2.0.0   | :x:                | Boysenberry| In development and Open Source         |
+| 3.0.0   | :x:                | Ghostberry | In planning and this is a Private Repo |
+| < 4.0.0 | :x:                | Huckleberry| In planning and Open Source            |
 
 ## Reporting a Vulnerability
 
