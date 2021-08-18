@@ -98,5 +98,5 @@ This phase will roll out our private repo for developers and enterprise customer
 
 ![](https://komarev.com/ghpvc/?username=wolfberryllc&color=green)
 
-We've brought sensing & reponse development down to the cost of here you go. Wolfberry, LLC 
+We've brought sensing & reponse development down to the cost of here you go. Wolfberry, LLC | DUNS 102917686
 
