@@ -37,7 +37,7 @@ Connect Sensors to Unity3D with the DappAR opensource framework.
 
 
 <h2><b><i>P1 - Starter Project + Firebase + Google Cloud :white_check_mark:</h2></b></i><br>
-Phase 1 - Complete and available now. <b>*Canis<b>
+Phase 1 - Complete and available now. *Canis
 
 1. We've Developed a Sensor Application (Python + Raspberry Pi + Arduino)
 
@@ -65,7 +65,7 @@ You may ask us for help at any point.
 <br>
 <br>
  <h2><b><i>P2 - Starter Project + AWS + HyperLedger + Cardano </i></h2></b><br>
-Phase 2 <b>*Boysenberry<b>
+Phase 2 *Boysenberry
 
 {Native Mobile Apps Development & Uploading to Snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & Hyperledger + Cardano} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around Oct 01 2021
 
@@ -74,7 +74,7 @@ Phase 2 <b>*Boysenberry<b>
 <br>
 <br>
  <h2><i><b>P3 - Azure + Hyperledger + Socket IO + User Management + Scalability </h2></i></b><br>
- Phase 3 <b>*Ghostberry<b>
+ Phase 3 *Ghostberry
  
 This phase will roll out our private repo for developers and enterprise customers who want to publish an app without the source code being public. It will also include user management for multiple Arduino compatible devices and the use of Azure + Hyperledger + Socket IO
  
