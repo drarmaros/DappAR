@@ -98,4 +98,5 @@ This phase will roll out our private repo for developers and enterprise customer
 
 ![](https://komarev.com/ghpvc/?username=wolfberryllc&color=green)
 
+We've brought secure sensors development down to the cost of here you go. 
 
