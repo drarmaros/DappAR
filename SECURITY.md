@@ -4,7 +4,7 @@
 
 ## Supported Versions
 
-We will be supporting all 4 versions, to date we have completed and published Canis. We are currenlty building Boysenberry and it will be available October 1st 2021. Both Canis and Boysenberry are Open Source.
+We will be supporting all 4 versions, to date we have completed and published Canis. We are currenlty building Boysenberry and it will be available October 1st 2021. Canis, Boysenberry, and Huckleberry are Open Source.
 
 
 | Version | Supported          | Title      | 
