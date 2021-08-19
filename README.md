@@ -85,7 +85,7 @@ This phase will roll out our private repo for developers and enterprise customer
 <br>
 <br>
 <h2><b>P4 - Robotics Response</h2></b><br>
- 
+Phase 4 Robotics will focus on the robotics response to Arduino sensor values and AR triggers. 
 
 
 <br>
