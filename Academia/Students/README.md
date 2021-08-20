@@ -1,6 +1,7 @@
 <h1> Checklist <h1>
  
- ![Asset 2](https://user-images.githubusercontent.com/21232416/129641818-4949a117-a1ff-407a-a5c9-3178493ba986.png)
+![AdobeStock_158849124](https://user-images.githubusercontent.com/21232416/130268095-6d84a3f1-9c02-462f-98c5-924fc4065ad2.jpeg)
+
  
  <h2> Hardware Checklist</h2>
    1. Arduino Uno https://store.arduino.cc/usa/arduino-uno-rev3<br>
