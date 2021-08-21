@@ -1,6 +1,6 @@
 
 
-<h1> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger + Blockchain </h1>
+<h1> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger </h1>
 <h3> Our Mission: Keep it simple, leave no one behind. </h3>
 
 ![Asset 2](https://user-images.githubusercontent.com/21232416/129479886-db33ecc9-7f24-49a6-81f1-762b540f3207.png)
