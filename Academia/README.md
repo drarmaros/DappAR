@@ -3,6 +3,8 @@
 
 
 
-<h1>Welcome Teachers and Students!<h1> 
+<h1>Welcome Teachers and Students!<h1>
+  
+Our primary mission is to facilitate and enhance your experience with our expansive framework!  If you need anything from us please let us know.  You can reach us at: support@wolfberryllc.com  
 
 
