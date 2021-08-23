@@ -25,7 +25,7 @@ You can setup your own firebase on google cloud and get its credentials & Replac
  
  
 <h3> Instructions </h3>
-1.<br>
+1. Employ the use of an IDE (i.e. MS Visual Studio)<br>
 2.<br>
 3.<br>
 4.<br>
