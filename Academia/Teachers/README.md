@@ -28,7 +28,8 @@ Welcome Teachers! You should see folders listed for each component of our framew
 2. 
 
 <h2> Cloud Service Account </h2>
+<h3>Canis</h3>
 1. Firebase https://firebase.google.com/ <br>
 2. Github https://www.github.com/ <br>
-3. 
+
 
