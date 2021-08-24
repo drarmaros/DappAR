@@ -2,7 +2,12 @@
 
 
 <h1> Instructions </h1>
-Welcome Teachers!
+Welcome Teachers! You should see folders listed for each component of our framework! 
+
+1. Augmented Reality <br>
+2. IoT <br>
+3. Blockchain <br>
+4. Artifical Intellegence <br>
 
 
 <h1> Item List </h1>
