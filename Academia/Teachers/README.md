@@ -7,7 +7,7 @@ Welcome Teachers! You should see folders listed for each component of our framew
 1. Augmented Reality <br>
 2. IoT <br>
 3. Blockchain <br>
-4. Artifical Intellegence <br>
+4. Artifical Intelligence <br>
 5. Cyber Security <br>
 
 
@@ -25,7 +25,10 @@ Welcome Teachers! You should see folders listed for each component of our framew
 
 <h2> Software </h2>
 1. Unity3d https://unity3d.com/get-unity/download
+2. 
 
 <h2> Cloud Service Account </h2>
 1. Firebase https://firebase.google.com/
+2. Github https://www.github.com/
+3. 
 
